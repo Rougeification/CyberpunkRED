@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Mission</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+  <body>
+    <div class="center-container">
+      <div class="mission-container" data-augmented-ui>
+        <h2>Das Drogenproblem</h2>
+        <div class="mission-description">
+          Eine neue Droge ist gerade dabei, die Straßen ein zu nehmen. "Emerald City". Und wer hat das Monopol? 
+          Eine Posergang namens The Yellow  Brick Road, die ihre Inspiration für ihre Fits aus einem alten Kinderbuch haben, "The Wizard of Oz".
+          <br />
+          Biotechnica scheint dies so gar nicht zu gefallen und hat einen Auftrag eröffnet.
+          Ich weiß, untypisch. Sind ihnen die Samurai ausgegangen? Aber sie zahlen gut.
+          <br />
+          <br />
+          "Emerald City" ist eine Combat Drug. Für nur 225eb pro 8 Stunden Dosis spürt ihr keine Schmerzen mehr. Schade nur, dass sie mit 
+          aggressivem Verhalten und massiven Wahnvorstellungen einher geht.
+          <br />
+          Biotechnik möchte, dass ihr das Versteck von The Yellow Brick Road ausfindig macht, 
+          mindestens 30 kg "Emerald City" beschafft, die Drogenoperationen sprengt und die Ware ausliefert. 
+          Sie haben 4 C9-Sprengstoffpakete mit Fernzündern dafür bereitgestellt.
+          <br />
+          <br />
+          Wenn ihr den Auftrag annehmt könnt ihr mit einer fetten Belohnung rechnen. 10.000eb vorab. Und weitere 7.000eb bei Lieferung der Ware.
+          Eine ganze Menge eddies, nur um ein paar Posergang Gonks zu flatlinen.
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
